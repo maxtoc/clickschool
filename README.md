@@ -1,1 +1,1 @@
-# clickschool
+# Studenți Click School
