@@ -1,2 +1,3 @@
 # Studenți Click School 2023
-Marcinschi Dragos
+Marcinschi Dragos;
+Cervac Vlad;
