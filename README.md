@@ -4,4 +4,4 @@ Andrei Cartan
 Dragos Marcinschi;
 Cervac Vlad;
 Chisinau 2023
-Mina Iosif
+Iosif Mina
