@@ -1,7 +1,7 @@
 # Studenți Click School 2023
 Elena Teaca;
 Andrei Cartan
-Marcinschi Dragos;
+Dragos Marcinschi;
 Cervac Vlad;
 Chisinau 2023
 
