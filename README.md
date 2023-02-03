@@ -3,5 +3,6 @@ Elena Teaca;
 Andrei Cartan
 Marcinschi Dragos;
 Cervac Vlad;
-Chisinau 2023
+Chisinau 2023;
+Maxim Tobultoc;
 
