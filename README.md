@@ -1,8 +1,10 @@
 # Studenți Click School 2023
 Tofan Albert;
 Elena Teaca;
+Teaca Elena;
 Andrei Cartan
 Dragos Marcinschi;
 Cervac Vlad;
-Chisinau 2023
+Chisinau 2023;
+Maxim Tobultoc;
 Mina Iosif
