@@ -1,8 +1,11 @@
 # Studenți Click School 2023
-Elena Teaca;
+Teaca Elena;
 Andrei Cartan
-Marcinschi Dragos;
+Dragos Marcinschi;
 Cervac Vlad;
+<<<<<<< HEAD
 Chisinau 2023
 Andreea Manole
-
+Chisinau 2023;
+Maxim Tobultoc;
+Mina Iosif
