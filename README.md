@@ -1,5 +1,5 @@
 # Studenți Click School 2023
-Elena Teaca;
+Teaca Elena;
 Andrei Cartan
 Dragos Marcinschi;
 Cervac Vlad;
