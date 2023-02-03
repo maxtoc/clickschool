@@ -11,6 +11,6 @@ Chisinau 2023
 Andreea Manole
 Iosif Mina
 Chisinau 2023;
-Maxim Tobultoc;
+Maxim Tobultoc 2.0;
 Mina Iosif
 
