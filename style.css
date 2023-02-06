@@ -1,0 +1,75 @@
+body {
+    width: auto;
+    height: 100vh;
+    border: none ;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-image: url(https://rare-gallery.com/thumbs/122-cat__hd_widescreen_cat_wallpaper.jpg);
+    background-size: cover;
+    background-repeat: none;
+    background-position: center;
+  
+  }
+  #title {
+    text-align: center;
+    color: white;
+  }
+  #description {
+    text-align: center;
+    color: white;
+    font-style: italic;
+  
+  }
+  #survey-form {
+    background-color: rgba(200, 50, 200, 0.7);
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    min-width: 200px;
+    border-radius: 5px;
+  }
+  fieldset {
+    display: flex;
+    flex-direction: column;
+    border: none;
+    margin: 10px;
+  }
+  #name-label,
+  #email-label,
+  #number-label {
+    margin-top: 20;
+    height: 2em;
+    padding: 0;
+  }
+  #name,
+  #email,
+  #number,
+  #dropdown {
+    margin-bottom: 20;
+    height: 2em;
+    padding: 2px 5px;
+    border-radius: 1em;
+    border: none;
+  }
+  
+  
+  hr {
+    background-color: blueviolet;
+    border: none;
+    height: 2px;
+  }
+  #comm {
+    border: none;
+    border-radius: 0.5em;
+    box-shadow: 2px 2px 2px 2px blueviolet;
+  
+  }
+  #submit {
+    margin-bottom: 50px;
+    border: none;
+    border-radius: 12px;
+    height: 3em;
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 16px;
+  }
